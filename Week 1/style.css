@@ -1,0 +1,20 @@
+body{
+    background-color: #a0cde2;
+    text-align: center;
+    color: #466e92;
+}
+p{
+    margin-top:-20px;
+    padding:16px;
+    font-size: large;
+    height:47px;
+}
+h1{
+    font-size: 56px;
+}
+#demobutton{
+    color: rgb(253, 249, 249);
+    background-color: #80cbed;
+    border-color: #466e92;
+    
+}
